@@ -7,7 +7,15 @@ This repository contains the link to an interactive Power BI dashboard for the C
 Click the link below to view the interactive dashboard:  
 [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMThjZGRiMzMtMjFjMC00NWE1LWFlOGItMjM0NzdhYTBiZmYxIiwidCI6ImI1YmY0ZjdkLTczN2ItNDdhOC1hOTZiLWI2N2I0M2I4MThmYiJ9)
 
-Alternatively, you can view the dashboard embedded below:
 
-<iframe title="COLLEGE_PROJECT - MIRI" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMThjZGRiMzMtMjFjMC00NWE1LWFlOGItMjM0NzdhYTBiZmYxIiwidCI6ImI1YmY0ZjdkLTczN2ItNDdhOC1hOTZiLWI2N2I0M2I4MThmYiJ9" frameborder="0" allowFullScreen="true"></iframe>
+## Description
+
+This dashboard covers the analysis of various aspects related to the college project, including:
+- Registrations
+- Attendances
+- Payments
+- Profit
+- Grades
+  
+It includes various visualizations and insights on key metrics and trends for these topics.
 
