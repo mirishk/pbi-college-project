@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "CollegeProject_Miri", "CollegeProject_Miri\CollegeProject_Miri.dtproj", "{2091C76F-A205-466E-8AFE-B732349727DE}"
+EndProject
+Project("{6870E480-7721-4708-BFB8-9AE898AA21B3}") = "TabularCollegeProject", "TabularCollegeProject\TabularCollegeProject\TabularCollegeProject.smproj", "{8CE414BB-95B2-4C99-9E03-51BA72086E22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|x86 = Development|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2091C76F-A205-466E-8AFE-B732349727DE}.Development|x86.ActiveCfg = Development
+		{2091C76F-A205-466E-8AFE-B732349727DE}.Development|x86.Build.0 = Development
+		{8CE414BB-95B2-4C99-9E03-51BA72086E22}.Development|x86.ActiveCfg = Development|x86
+		{8CE414BB-95B2-4C99-9E03-51BA72086E22}.Development|x86.Build.0 = Development|x86
+		{8CE414BB-95B2-4C99-9E03-51BA72086E22}.Development|x86.Deploy.0 = Development|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EAE9AD8-9432-46AD-81EF-98FB0317E4D8}
+	EndGlobalSection
+EndGlobal
