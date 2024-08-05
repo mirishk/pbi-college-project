@@ -11,6 +11,8 @@ This repository contains two main components for the College Project:
 
 The SSIS solution file (`.sln`) includes 10 packages for the College Project. These packages are designed to extract, transform, and load (ETL) data into a data warehouse. 
 
+[View the SSIS Solution File](CollegeProject_Miri.sln)
+
 The packages:
 - Dim Regions
 - Dim Students
