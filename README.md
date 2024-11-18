@@ -27,6 +27,15 @@ The packages:
   
 ![image](https://github.com/user-attachments/assets/9540b309-3ba1-44e0-aba8-d402b089445d)
 
+---
+
+## Data Model
+Below is the Entity-Relationship Diagram (ERD) for the College Project. This diagram represents the structure of the data warehouse, including fact and dimension tables, and the relationships between them.
+
+![Entity-Relationship Diagram](https://raw.githubusercontent.com/mirishk/pbi-college-project/main/ERD.jpeg) 
+
+---
+
 ## The Dashboard
 ### View the Dashboard
 
